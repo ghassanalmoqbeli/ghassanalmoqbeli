@@ -14,9 +14,6 @@
   </a>
 </div>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=GhassanAlmoqbeli&color=blue&style=flat" alt="Profile Views" />
-</p>
 
 
 ## 🔹 About Me  
