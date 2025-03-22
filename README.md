@@ -1,8 +1,6 @@
 <h1 align="center">Ghassan Al-Moqbeli</h1>
-
 <h3 align="center">Computer Science Student | Software Engineer | UI/UX Designer</h3>
 
----
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ghassan-al-moqbeli/" target="_blank">
