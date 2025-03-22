@@ -1,8 +1,6 @@
-<h2 align="center">🚀 Ghassan Al-Moqbeli 🚀</h2>
+<h2 align="center">Ghassan Al-Moqbeli</h2>
 
-<h4 align="center">💻 Computer Science Student | 🛠️ Software Engineer | 🎨 UI/UX Designer</h4>
-
----
+<h4 align="center">Computer Science Student | Software Engineer | UI/UX Designer</h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
