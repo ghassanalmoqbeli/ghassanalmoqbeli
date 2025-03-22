@@ -2,11 +2,26 @@
 
 <h4 align="center">💻 Computer Science Student | 🛠️ Software Engineer | 🎨 UI/UX Designer</h4>
 
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
+  <a href="https://www.behance.net/ghassanalmoqbeli" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Behance logo" />
+  </a>
+  <a href="mailto:ghassanalmoqbeli3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
+  </a>
+</div>
+
+---
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=GhassanAlmoqbeli&color=blue&style=flat" alt="Profile Views" />
 </p>
 
----
 
 ## 🔹 About Me  
 💻 **Computer Science Student** | 🛠️ **Software Engineer** | 🎨 **UI/UX Designer**  
