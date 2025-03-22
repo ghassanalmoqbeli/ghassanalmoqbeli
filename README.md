@@ -14,7 +14,6 @@
   </a>
 </div>
 
----
 
 <h2 align="left">💻 Technical Expertise</h2>
 
