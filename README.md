@@ -14,8 +14,7 @@
   </a>
 </div>
 <br>
-<br>
-<br>
+
 <hr>
 <h3 align="left">💻 I specialize in:</h3>  
 
