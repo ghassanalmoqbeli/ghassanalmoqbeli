@@ -14,6 +14,8 @@
   </a>
 </div>
 <br>
+<br>
+<br>
 <h2 align="left">💻 I specialize in:</h2>  
 
 - 📱 **Mobile App Development** – ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)  
