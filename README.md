@@ -1,3 +1,13 @@
+<h2 align="center">🚀 Ghassan Al-Moqbeli 🚀</h2>
+
+<h4 align="center">💻 Computer Science Student | 🛠️ Software Engineer | 🎨 UI/UX Designer</h4>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=GhassanAlmoqbeli&color=blue&style=flat" alt="Profile Views" />
+</p>
+
+---
+
 ## 🔹 About Me  
 💻 **Computer Science Student** | 🛠️ **Software Engineer** | 🎨 **UI/UX Designer**  
 
