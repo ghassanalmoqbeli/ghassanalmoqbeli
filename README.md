@@ -15,8 +15,8 @@
 </div>
 <br>
 
-<hr>
-<h3 align="left">💻 I specialize in:</h3>  
+
+<h2 align="left">💻 I specialize in:</h2>  
 
 - 📱 **Mobile App Development** – ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)  
 - 🌐 **Frontend Development** – ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)  
