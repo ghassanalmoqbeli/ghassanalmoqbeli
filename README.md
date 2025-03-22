@@ -83,8 +83,4 @@
   <img src="https://streak-stats.demolab.com?user=ghassanalmoqbeli&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
----
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ghassanalmoqbeli/ghassanalmoqbeli/output/snake.svg" alt="Snake animation" />
-</p>
