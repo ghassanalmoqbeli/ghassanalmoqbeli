@@ -1,5 +1,5 @@
 <h1 align="center">Ghassan Al-Moqbeli</h1>
-<h3 align="center">Computer Science Student | Software Engineer | UI/UX Designer</h3>
+<h3 align="center">Software Engineer | UI/UX Designer | Mobile & Web App Developer</h3>
 
 
 <div align="center">
